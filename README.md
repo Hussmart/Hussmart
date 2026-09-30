@@ -1,4 +1,4 @@
-### Hi, I'm Hossein Hooshmand
+### Hi, I'm Hossein Hush
 
 I work where machine learning meets optimization. Most of my projects start with a real decision problem, like routing vehicles, sizing bets, or redacting a clinical conversation, and try to answer it with methods that come with a correctness check.
 
