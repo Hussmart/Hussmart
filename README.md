@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Hossein Hush</h1>
 
 I build AI and machine learning tools for financial markets. My current work combines robust optimization, probability calibration, anomaly detection, and graph-based consensus methods to study how markets price risk and where models break.
+
 My research interest is optimization across different fields, with healthcare first on the list. Clinical privacy, care coordination, and resource allocation are the problems I keep coming back to. After that, anything where a good model can improve a real decision.
+
 I love reading papers and keeping up with new methods. A lot of what ends up in these repos started as a paper I couldn't stop thinking about.
+
 
 
 AI and machine learning in financial markets
